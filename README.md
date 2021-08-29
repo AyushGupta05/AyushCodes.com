@@ -1,2 +1,4 @@
-# Ayush-blog
+# Ayush-Codes
+
+My Personal Blog
 
