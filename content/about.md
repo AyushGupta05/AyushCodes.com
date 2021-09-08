@@ -1,11 +1,11 @@
 +++
 author = "Ayush"
 authorlink = ""
-title = "My First Post"
-date = "2021-07-30"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+title = "About me"
+date = "2021-09-08"
+description = "This is a blog talking about Ayush experienceson computers, games and more"
 tags = [
- "first-post"
+ "My first post"
 ]
 categories = [
     "themes",
@@ -23,5 +23,7 @@ imagetext = "An example text for an image you could add!"
 hidemeta = false
 +++
 
-# hello 
-##  
+
+My name is Ayush and i am 14 years old. I like computers, games, sports and more. My favorite sport is tennis. 
+
+![My favorite dish - Dhokla](/img/dhokla.jpeg)
