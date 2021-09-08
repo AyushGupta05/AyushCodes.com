@@ -26,4 +26,4 @@ hidemeta = false
 
 My name is Ayush and i am 14 years old. I like computers, games, sports and more. My favorite sport is tennis. 
 
-![My favorite dish - Dhokla](/img/dhokla.jpeg)
+![My favorite dish - Dhokla](/AyushCodes.com/img/dhokla.jpeg)
