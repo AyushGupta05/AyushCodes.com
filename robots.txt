@@ -1,3 +1,4 @@
 User-agent: *
 
 Disallow: /AyushCodes.com/about/
+Disallow: /AyushCodes.com/post/boolean-logics/
