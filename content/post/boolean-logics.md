@@ -6,11 +6,7 @@ date = "2021-09-08"
 description = "I will explain Boolean Logics "
 tags = [
  "My first post"
-]
-categories = [
-    "themes",
-    "syntax",
-]
+
 nofeed = true
 math = true
 notaxonomy = false
@@ -18,8 +14,7 @@ commentable = true
 hidden = false
 norobots = true
 nodate = false
-images = ["/img/example.jpg"]
-imagetext = "An example text for an image you could add!"
+
 hidemeta = false
 +++
 # About Boolean Logics
